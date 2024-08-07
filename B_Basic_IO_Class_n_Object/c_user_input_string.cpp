@@ -25,4 +25,4 @@ int main()
     s1.inputData();
     s1.displayData();
     return 0;
-}dd
+}
