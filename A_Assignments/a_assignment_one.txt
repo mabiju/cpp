@@ -1,0 +1,11 @@
+Handwritten Assingnment 1
+-------------------------
+1. Write the difference between C and C++.
+2. Explain the use of while loop and continue statement with problem scenario and its possible solution. (Include 5 possible solutions, with or without using continue statement).
+3. Define control statement. Exemplify if, looping, switch and jump statement with syntax and flowchart diagram.
+4. Differentiate between do while and while loop with appropriate examples.
+5. Which is the most efficient loop in C++. Verify your statement with examples.
+
+
+Assigned : 2081/04/24, Thursday
+Deadline : 2081/05/10, Monday
