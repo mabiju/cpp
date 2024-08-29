@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a[10][10], transpose[10][10], row, column, i, j;
+    int a[10][10], transpose[10][10], row, column;
 
     cout << "Enter rows of matrix: ";
     cin >> row;
